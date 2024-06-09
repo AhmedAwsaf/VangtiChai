@@ -16,7 +16,8 @@
 ## Mobile support
 The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
-![](https://github.com/AhmedAwsaf/VangtiChai/Landscape.jpg)
+![](https://github.com/AhmedAwsaf/VangtiChai/blob/23b6e3177ec4d7a648c3f790f1c41d0148d6089c/Landscape.jpg)
+![](https://github.com/AhmedAwsaf/VangtiChai/blob/23b6e3177ec4d7a648c3f790f1c41d0148d6089c/Portrait.jpg)
 
 ### Development
 Want to contribute? Great!
