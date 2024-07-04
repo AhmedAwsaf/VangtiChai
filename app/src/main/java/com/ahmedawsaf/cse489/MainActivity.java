@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
 
         LinearLayout mainLayout = findViewById(R.id.outputLL);
 
-        // Check the orientation and set the orientation of the LinearLayout
+
         if (getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE) {
             mainLayout.setOrientation(LinearLayout.HORIZONTAL);
         } else {
@@ -110,7 +110,6 @@ public class MainActivity extends AppCompatActivity {
 
         LinearLayout mainLayout = findViewById(R.id.outputLL);
 
-        // Check the orientation and set the orientation of the LinearLayout
         if (getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE) {
             mainLayout.setOrientation(LinearLayout.HORIZONTAL);
         } else {
